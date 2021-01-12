@@ -2,11 +2,24 @@ body {
     background-color: teal;
     color: teal
 }
+.header {
+    text-align: center; 
+    color: teal; 
+    font-weight: bold; 
+    font-size: xx-large; 
+    padding: 20px;
+}
+.portfolio-header {
+    margin-left: 15%;
+    margin-right: 15%;
+}
 .portfolio-row {
     background-color: white; 
     margin-bottom: 0px; 
     padding-bottom: 20px;
-    float: left;
+    margin-left: 15%;
+    margin-right: 15%;
+    justify-content: center;
 }
 .portfolio-card-one {
     margin: 20px;
@@ -15,6 +28,9 @@ body {
     margin-left: 15%;
     margin-right: 15%;
 }
+.portfolio-card {
+    margin-bottom: 50px;
+}
 .card-title {
     margin-top: -15px;
 }
@@ -22,18 +38,15 @@ body {
     padding-top: 10px;
 }
 #form {
-    
     margin: 30px;
     margin-top: 100px;
     padding: 50px;
     background-color: white;
     margin-bottom: 80px;
-  }
-
+}
 #header {
     font-weight: bold;
     margin-bottom: 20px;
-   
 }
 .card-body {
     text-align: center;
@@ -42,12 +55,10 @@ body {
 .header {
     font-weight: bold;
 }
-
 .card-link:hover {
     background-color: white;
     color: black;
 }
-
 .fixed-bottom {
   background-color: white;
   height: 50px;
