@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+/* For future developments
 var mySwiper = new Swiper('.swiper-container', {
     effect: 'coverflow',
     grabCursor: true,
@@ -27,4 +35,4 @@ var mySwiper = new Swiper('.swiper-container', {
       prevEl: '.swiper-button-prev',
     },
   
-  })
+  })*/
