@@ -1,13 +1,37 @@
 # lauraaupert.github.io - A Portfolio
 
-This website is my first attempt at a portfolio. It was created from scratch in HTML and uses a lot of Bootstrap elements, including a grid layout, a navbar, a dropdown menu, card elements, and a sticky bottom. I added a CSS file to ameliorate some of the styling elements. 
-The navbar links all direct to different parts of my website: About, Portfolio, and Contact. The sticky bottom links to the Contact page as well. In the portfolio section, I added links to some of the activities I have been working on. 
-Every page is responsive and the navbar is consistent. Images are responsive as well and have alt elements for accessibility. I also checked my code with an html validation service and I was very proud to only get very few tiny mistakes. 
-Challenges: 
-I could not get my dropdown to work because I had not realized I needed the Bootstrap JS link. That made me do a lot of extra work! 
-Although everything is responsive, I have not figured out how to make the cards the same size. I do like that they go in increasing order, but it would be good to make sure they are the same size. 
-Future work: I hope to make this website super better once I know more JavaScript! I could make it do cool stuff. 
+Welcome to my portfolio. It is a work in progress. You can see what coding mischief I have been up to, but there is more coming. 
 
-Here is the link: https://lauraaupert.github.io/
+Technology used: HTML/CSS, Javascript
 
-Thank you!
+Here is the link: https://lauraaupert.github.io/Portfolio
+
+![image](https://user-images.githubusercontent.com/73617474/104492322-74a50700-55a1-11eb-8f5e-65ce7c90463b.png)
+
+![image](https://user-images.githubusercontent.com/73617474/104492406-93a39900-55a1-11eb-8a17-1758e64b5f8c.png)
+
+
+
+
+
+MIT License
+
+Copyright (c) [2021] [Laura Aupert]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
